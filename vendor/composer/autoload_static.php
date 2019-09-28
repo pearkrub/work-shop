@@ -24,6 +24,7 @@ class ComposerStaticInit9bff6e9cb0f5537d6bd7003b847a950b
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         '801c31d8ed748cfa537fa45402288c95' => __DIR__ . '/..' . '/psy/psysh/src/functions.php',
         'b6ec61354e97f32c0ae683041c78392a' => __DIR__ . '/..' . '/scrivo/highlight.php/HighlightUtilities/functions.php',
+        'ed962a97bd972bc82007176b647d4e36' => __DIR__ . '/..' . '/facade/ignition/src/helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -711,6 +712,7 @@ class ComposerStaticInit9bff6e9cb0f5537d6bd7003b847a950b
         'Facade\\Ignition\\ErrorPage\\ErrorPageViewModel' => __DIR__ . '/..' . '/facade/ignition/src/ErrorPage/ErrorPageViewModel.php',
         'Facade\\Ignition\\ErrorPage\\IgnitionWhoopsHandler' => __DIR__ . '/..' . '/facade/ignition/src/ErrorPage/IgnitionWhoopsHandler.php',
         'Facade\\Ignition\\ErrorPage\\Renderer' => __DIR__ . '/..' . '/facade/ignition/src/ErrorPage/Renderer.php',
+        'Facade\\Ignition\\Exceptions\\InvalidConfig' => __DIR__ . '/..' . '/facade/ignition/src/Exceptions/InvalidConfig.php',
         'Facade\\Ignition\\Exceptions\\UnableToShareErrorException' => __DIR__ . '/..' . '/facade/ignition/src/Exceptions/UnableToShareErrorException.php',
         'Facade\\Ignition\\Exceptions\\ViewException' => __DIR__ . '/..' . '/facade/ignition/src/Exceptions/ViewException.php',
         'Facade\\Ignition\\Exceptions\\ViewExceptionWithSolution' => __DIR__ . '/..' . '/facade/ignition/src/Exceptions/ViewExceptionWithSolution.php',
@@ -720,6 +722,7 @@ class ComposerStaticInit9bff6e9cb0f5537d6bd7003b847a950b
         'Facade\\Ignition\\Http\\Controllers\\ScriptController' => __DIR__ . '/..' . '/facade/ignition/src/Http/Controllers/ScriptController.php',
         'Facade\\Ignition\\Http\\Controllers\\ShareReportController' => __DIR__ . '/..' . '/facade/ignition/src/Http/Controllers/ShareReportController.php',
         'Facade\\Ignition\\Http\\Controllers\\StyleController' => __DIR__ . '/..' . '/facade/ignition/src/Http/Controllers/StyleController.php',
+        'Facade\\Ignition\\Http\\Middleware\\IgnitionConfigValueEnabled' => __DIR__ . '/..' . '/facade/ignition/src/Http/Middleware/IgnitionConfigValueEnabled.php',
         'Facade\\Ignition\\Http\\Middleware\\IgnitionEnabled' => __DIR__ . '/..' . '/facade/ignition/src/Http/Middleware/IgnitionEnabled.php',
         'Facade\\Ignition\\Http\\Requests\\ExecuteSolutionRequest' => __DIR__ . '/..' . '/facade/ignition/src/Http/Requests/ExecuteSolutionRequest.php',
         'Facade\\Ignition\\Http\\Requests\\ShareReportRequest' => __DIR__ . '/..' . '/facade/ignition/src/Http/Requests/ShareReportRequest.php',
