@@ -35,7 +35,7 @@
                 <li class="nav-header">เกี่ยวกับสินค้า</li>
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-copy"></i>
+                        <i class="nav-icon fas fa-socks"></i>
                         <p>
                             จัดการสินค้า
                             <i class="fas fa-angle-left right"></i>
@@ -58,7 +58,7 @@
                 </li>
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-chart-pie"></i>
+                        <i class="nav-icon fas fa-images"></i>
                         <p>
                             จัดการแบนเนอร์
                             <i class="right fas fa-angle-left"></i>
@@ -82,7 +82,7 @@
                 <li class="nav-header">สมาชิก</li>
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-tree"></i>
+                        <i class="nav-icon fas fa-users"></i>
                         <p>
                             จัดการสมาชิก
                             <i class="fas fa-angle-left right"></i>
@@ -101,12 +101,18 @@
                                 <p>ประเภทสมาชิก</p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="pages/UI/icons.html" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>ผู้ดูแลระบบ</p>
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li class="nav-header">บริหารการขาย</li>
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-edit"></i>
+                        <i class="nav-icon fas fa-book"></i>
                         <p>
                             รายการสั่งซื้อ
                             <i class="fas fa-angle-left right"></i>
