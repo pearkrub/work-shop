@@ -29,7 +29,7 @@
     <!-- Main style -->
     <link rel="stylesheet" href="../css/style.min.css">
 
-    <title>Mimity</title>
+    <title>Gimmicksocks Online/</title>
 </head>
 
 <body>
